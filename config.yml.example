@@ -1,0 +1,4 @@
+DEFAULT:
+    CLIENT_ID: blablabla
+    CLIENT_SECRET: blablabla
+    REDIRECT_URI: http://localhost:8888/callback
